@@ -9,4 +9,8 @@ public class ContactosController {
 	 @Autowired
 	 private ContactoDAO contactDAO;
 	 
+	 public void hacerAlgo() {
+		 System.out.println("Hacer commit");
+	 }
+	 
 }
