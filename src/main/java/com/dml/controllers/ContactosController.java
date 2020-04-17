@@ -10,7 +10,9 @@ public class ContactosController {
 	 private ContactoDAO contactDAO;
 	 
 	 public void hacerAlgo() {
-		 System.out.println("Hacer commit");
+		 System.out.println("Hacer commit, segundo mas mas ");
 	 }
+	 
+
 	 
 }
